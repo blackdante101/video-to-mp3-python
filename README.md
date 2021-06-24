@@ -1,2 +1,5 @@
 # video-to-mp3-python
-a CLI based video to mp3 converter built using python movie.py module 
+
+# 1 Install moviepy module using this command
+
+` pip install moviepy
